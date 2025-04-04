@@ -81,8 +81,20 @@ public class Student {
         this.mysql = mysql;
     }
     // </editor-fold>
-
     public double getAverageScore() {
         return (html + reactjs + mysql) / 3;
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }
